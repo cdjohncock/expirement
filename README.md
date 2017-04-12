@@ -1,2 +1,2 @@
 # Welcome to cdjohncock's homepage
-<heading font="times"> this is a test
+<heading font="times" color="blue"> this is a test</heading>
