@@ -1,2 +1,2 @@
 # Welcome to cdjohncock's homepage
-<heading> <font="times new roman"> <color="blue"> this is a test</heading></font>
+<heading color="blue"> this is a test</heading></font>
