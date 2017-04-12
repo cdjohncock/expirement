@@ -1,2 +1,2 @@
 # Welcome to cdjohncock's homepage
-## <headingfont color="blue"> this is a test
+## <heading="blue"> this is a test
