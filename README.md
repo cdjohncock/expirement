@@ -6,5 +6,9 @@ now, things should be normal
 >Chris Johncock is my name
 >>written in block quotes
 ---
-  <p><center>
-hello
+Im going to send [these words][g]to google so that I can test the precess of inserting a link
+[g]:http://www.google.com
+
+
+and now moving on
+----
