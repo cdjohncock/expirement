@@ -18,11 +18,10 @@ and now moving on
 *   bar
 
 literal backticks `` `here` ``  
-<html>
-  <center>
   and last but  
 not least
-  </center>
-    <textarea rows="10" cols="20">you can write here
-    </textarea>
+    <html>
+    <br>
+        <textarea rows="10" cols="20">you can write here
+        </textarea>
     
