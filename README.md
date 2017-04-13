@@ -25,3 +25,5 @@ literal backticks `` `here` ``
 not least
   </center>
 I will try to make [this][g] word a reference style link by memory alone.
+
+  [g]: http://google.com/
