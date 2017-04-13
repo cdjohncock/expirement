@@ -20,6 +20,10 @@ and now moving on
 *   bar
 
 literal backticks `` `here` ``  
-  <center>and last but  
+  <center>
+  and last but  
 not least
   </center>
+I will try to make [this][cd] word a reference style link by memory alone.
+
+  [cd]: http://www.yahoo.com/ "cheated a little bit"
