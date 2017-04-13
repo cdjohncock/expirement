@@ -8,8 +8,18 @@ now, things should be normal
 ---
 Im going to send [these words][g] to google so that I can test the precess of inserting a link. and the simpler form of a link to [google](http://www.google.com/ "simple link") there.
 
-  [g]: http://www.google.com/
+  [g]: http://www.google.com/ "reference style"
 
 
 and now moving on
 ----
+*   a list item
+
+    with multiple paragraphs
+    
+*   bar
+
+literal backticks `` `here` ``  
+  <center>and last but  
+not least
+  </center>
