@@ -6,8 +6,8 @@ now, things should be normal
 >Chris Johncock is my name
 >>written in block quotes
 ---
-Im going to send [these words] [id]to google so that I can test the precess of inserting a link
-[id]: http://google.com/
+Im going to send [these words][]to google so that I can test the precess of inserting a link
+[these words]: http://google.com/
 
 
 and now moving on
