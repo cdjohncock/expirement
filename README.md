@@ -6,6 +6,5 @@ now, things should be normal
 >Chris Johncock is my name
 >>written in block quotes
 ---
-</br>
   <p><center>
 hello
