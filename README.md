@@ -24,6 +24,4 @@ literal backticks `` `here` ``
   and last but  
 not least
   </center>
-I will try to make [this][cd] word a reference style link by memory alone.
-
-  [cd]: http://www.yahoo.com/ "cheated a little bit"
+I will try to make [this][g] word a reference style link by memory alone.
