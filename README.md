@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 ## welcome to my test page
 *I am going to try a few things to see how this works
 if I continue to write, this should be in italics.*
@@ -17,6 +18,7 @@ and now moving on
 *   bar
 
 literal backticks `` `here` ``  
+<html>
   <center>
   and last but  
 not least
@@ -24,12 +26,3 @@ not least
 I will try to make [this][g] word a reference style link by memory alone.
 
   [g]: http://google.com/
-  
----
-layout: post
-title: blogging like a hacker
----
-layout: post
-title: blogging like a hacker
----
-
