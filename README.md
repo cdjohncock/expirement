@@ -24,3 +24,12 @@ not least
 I will try to make [this][g] word a reference style link by memory alone.
 
   [g]: http://google.com/
+  
+---
+layout: post
+title: blogging like a hacker
+---
+layout: post
+title: blogging like a hacker
+---
+
