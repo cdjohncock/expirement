@@ -7,5 +7,4 @@ now, things should be normal
 >>written in block quotes
 ---
 </br>
-  <p><center>hello
-  </center></p>
+  <p><center>hello</center></p>
