@@ -7,7 +7,8 @@ now, things should be normal
 >>written in block quotes
 ---
 Im going to send [these words][]to google so that I can test the precess of inserting a link
-[these words]: http://google.com/
+
+  [these words]: http://google.com/
 
 
 and now moving on
