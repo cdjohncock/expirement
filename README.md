@@ -4,3 +4,4 @@ if I continue to write, this should be in italics.*
 now, things should be normal
 >Chris Johncock is my name
 >>written in block quotes
+`<code>` spans are delimited by backticks
